@@ -105,7 +105,3 @@ cd <Habit-Flow>
 - Per-activity weekly goals (for example, Exercise only on Mon/Wed/Fri)
 - CSV export alongside JSON
 - Optional cloud sync
-
-## License
-
-Add a license of your choice (for example [MIT](https://choosealicense.com/licenses/mit/)) before publishing.
