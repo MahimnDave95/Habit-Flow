@@ -56,8 +56,8 @@ A clean, responsive **monthly habit and daily task tracker** that runs entirely 
 There is nothing to install.
 
 ```bash
-git clone https://github.com/<your-username>/<your-repo>.git
-cd <your-repo>
+git clone https://github.com/<MahimnDave95>/<Habit-Flow>.git
+cd <Habit-Flow>
 # then just open index.html in your browser
 ```
 
